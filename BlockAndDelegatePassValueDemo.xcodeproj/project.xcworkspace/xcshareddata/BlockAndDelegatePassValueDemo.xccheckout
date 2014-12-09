@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>60F739D3-8649-4004-BA11-750F796C7CF0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BlockAndDelegatePassValueDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>54115C3CA7C32C7433B60E2F040577F25567456E</key>
+		<string>https://github.com/yafoolaw/Block-Delegate.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BlockAndDelegatePassValueDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>54115C3CA7C32C7433B60E2F040577F25567456E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yafoolaw/Block-Delegate.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>54115C3CA7C32C7433B60E2F040577F25567456E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>54115C3CA7C32C7433B60E2F040577F25567456E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BlockAndDelegatePassValueDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

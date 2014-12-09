@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  SingleViewBlock
+//
+//  Created by FrankLiu on 14/12/9.
+//  Copyright (c) 2014年 FrankLiu. All rights reserved.
+//
+
+#ifndef SingleViewBlock_PrefixHeader_pch
+#define SingleViewBlock_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+/*
+ Xcode6不建议我们使用.pch，但是在一些场合，比如维护以前的代码，或者用以前的代码时，可能还得用。
+ 所以在此，我试验了一下。
+ 详细情况参见我的一篇博文：
+ http://www.jianshu.com/p/68eecd87210a
+ */
+    #define BLOCK_PASS 1
+#endif
